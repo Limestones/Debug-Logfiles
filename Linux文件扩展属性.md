@@ -144,7 +144,7 @@ getfacl qingshu
 
 
   
-- **ADV ACL**  *（给我比尔·盖茨一个面子）*
+- **ADV ACL** 
   
 *统一Windows文件系统和Linux文件系统的文件访问管理方式*  
 
